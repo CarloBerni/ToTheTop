@@ -1,0 +1,28 @@
+.title__end {
+  margin: auto;
+  margin-top: 400px;
+  font-size: 200%;
+  color: rgba(144, 42, 102, 1);
+}
+
+.score__end {
+  position: absolute;
+  top: 51%;
+  left: 48%;
+  font-size: 180%;
+}
+
+.replay {
+  margin: auto;
+  margin-bottom: 15%;
+  font-size: 30px;
+}
+
+.Endballoon {
+  position: absolute;
+  width: 280px;
+  height: 190px;
+  background-image: url(../img/balloonMini.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
